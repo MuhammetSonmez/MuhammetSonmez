@@ -2,7 +2,7 @@
 <h3 align="center">Software Enginnering student on Kırklareli University, Turkey.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qappevox&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammetSonmez" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammetSonmez&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammetSonmez" /> </p>
 
 
 - 📫 How to reach me **muhammetsonmez1011@gmail.com**
