@@ -2,7 +2,7 @@
 <h3 align="center">Software Enginnering student on Kırklareli University, Turkey.</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qappevox&label=Profile%20views&color=0e75b6&style=flat" alt="qappevox" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qappevox&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammetSonmez" /> </p>
 
 
 - 📫 How to reach me **muhammetsonmez1011@gmail.com**
@@ -25,11 +25,11 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qappevox&show_icons=true&locale=en&layout=compact" alt="Muhammet Sönmez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammetSonmez&show_icons=true&locale=en&layout=compact" alt="Muhammet Sönmez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qappevox&show_icons=true&locale=en" alt="Muhammet Sönmez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammetSonmez&show_icons=true&locale=en" alt="Muhammet Sönmez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qappevox&" alt="Muhammet Sönmez" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetSonmez&" alt="Muhammet Sönmez" /></p>
 
 <!---
 Qappevox/Qappevox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
