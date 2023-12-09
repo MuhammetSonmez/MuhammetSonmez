@@ -4,6 +4,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MuhammetSonmez&label=Profile%20views&color=0e75b6&style=flat" alt="MuhammetSonmez" /> </p>
 
+```python
+#profile views bot example:
+import requests
+count = int(input("request count:\n"))
+url = "https://camo.githubusercontent.com/9f89253bd606c1e24a949e497c3586359bc0b3a666890010eeb1cc27381883a1/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d4d7568616d6d6574536f6e6d657a266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"
+for i in range(count):
+    requests.get(url)
+```
 
 - 📫 How to reach me **muhammetsonmez1011@gmail.com**
 
