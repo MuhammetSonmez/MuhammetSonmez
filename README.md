@@ -34,6 +34,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammetSonmez&show_icons=true&locale=en&layout=compact" alt="Muhammet Sönmez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MuhammetSonmez&show_icons=true&locale=en" alt="Muhammet Sönmez" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammetSonmez&" alt="Muhammet Sönmez" /></p>
